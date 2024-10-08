@@ -1,1 +1,1 @@
-Primera caracteresffesística: nueva rama
+Primera característica: nueva rama
